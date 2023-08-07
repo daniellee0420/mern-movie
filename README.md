@@ -151,17 +151,15 @@ This project was created using the following technologies.
 
 ## Author
 
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+- Portfolio: [Daniel Lee](http://masterdev0218.portfolio.app)
+- Github: [masterdev0218](https://github.com/masterdev0218)
+- Email: [daniel.lee0218929@gmail.com](mailto:daniel.lee0218929@gmail.com)
 
 ## License
 
 MIT License
 
-Copyright (c) 2022 Gilbert Hutapea
+Copyright (c) 2022 Daniel Lee
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
